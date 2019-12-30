@@ -1,0 +1,32 @@
+*{
+}
+
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 900px;
+}
+
+.child {
+  display: flex;
+  margin: 13px 9px;
+}
+
+button{
+background-color: blue;
+color: white;
+border-radius: 4px;
+}
+label {
+  font-size: 24px;
+  font-weight: 800;
+}
+
+input{
+  background-color: #fff;
+}
+
+.targ{
+  margin:  15px 15px;
+}
